@@ -1,4 +1,4 @@
-# SEA8 - Spring Data JPA Quest 03 - One-to-Many
+# SEA8 - Spring Data JPA Quest 03 - Many-to-Many
 
 ## Challenge: The magic of Spring Data JPA
 
